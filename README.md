@@ -14,9 +14,12 @@ getpapers can fetch article metadata, fulltexts (PDF or XML), and supplementary 
 
 ## Installation
 
+When logged in as root or using ```sudo```:
+
 ```bash
 $ npm install --global getpapers
 ```
+
 
 ## Usage
 
